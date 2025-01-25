@@ -12,9 +12,7 @@ This repository demonstrates the step-by-step implementation of clustering algor
 
 ---
 
-### Prerequisites
-- Python 3.x
-- Required libraries:
+### Required libraries:
   - `pandas`
   - `numpy`
   - `matplotlib`
